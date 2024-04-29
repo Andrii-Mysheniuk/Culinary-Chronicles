@@ -33,7 +33,7 @@ ul li {
 ul li img {
   display: block; /* Center images */
   margin: 0 auto; /* Center images */
-  width: 70%; /* Make images fill their container */
+  width: 60%; /* Make images fill their container */
   border-radius: 15px;
   transition: transform 0.3s ease; /* Smooth transition on hover */
 }
